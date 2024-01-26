@@ -1,0 +1,71 @@
+{
+
+    "timeout" : 30,
+    
+    "max_user" : 3,
+    
+    "map": {
+    
+    "map_width" : 10,
+    
+    "map_height" : 10
+    
+    },
+    
+    "user": [
+    
+    {
+    
+    "username" : "",
+    
+    "score" : 0,
+    
+    "base" : [5, 6],
+    
+    "location": [3, 4]
+    
+    },
+    
+    {
+    
+    "username" : "",
+    
+    "score" : 0,
+    
+    "base" : [5, 4],
+    
+    "location": [3, 6]
+    
+    },
+
+    {
+    
+        "username" : "",
+        
+        "score" : 0,
+        
+        "base" : [3, 2],
+        
+        "location": [7, 3]
+        
+        }
+    
+    ],
+    
+    "item_location" : [
+    
+    [4, 4], 
+
+    [4, 6], 
+
+    [3, 3]
+    
+    ],
+    
+    "block_location" : [
+    
+    [0, 0]
+    
+    ]
+    
+    }
